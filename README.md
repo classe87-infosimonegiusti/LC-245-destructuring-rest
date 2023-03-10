@@ -1,0 +1,1 @@
+# LC-245-destructuring-rest
