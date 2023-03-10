@@ -10,6 +10,6 @@ const mioOggetto = {
 //const modello = mioOggetto.modello;
 //const colore = mioOggetto.colore;
 
-const {marca, modello, 'colore auto':colore} = mioOggetto;
+const {marca, modello, 'colore auto':colore} = mioOggetto; //equivalente al codice commentato di sopra
 
 console.log(marca, modello, colore);

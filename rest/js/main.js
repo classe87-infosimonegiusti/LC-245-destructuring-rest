@@ -7,7 +7,6 @@ miaFunzione('Ciao', 55, {'ciccio':'pasticcio'});
 
 
 
-
 let risultato = somma(1,2,3,4,5);
 
 function somma(...valori) {
